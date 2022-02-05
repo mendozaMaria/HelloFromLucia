@@ -11,12 +11,8 @@ public class Main {
         String jacobName ="Jacob";
         System.out.printf("Hello, my name is %s.%n", jacobName);
 
-
-
-
-
-        String noName = "Empty name";
-        System.out.printf("Hello, my name is %s.%n", noName);
+        String secondName = "Maria";
+        System.out.printf("Hello, my name is %s.%n", secondName);
 
     }
 }
