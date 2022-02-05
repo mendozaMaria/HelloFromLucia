@@ -8,6 +8,8 @@ public class Main {
         System.out.printf("Hello, my name is %s.%n", luciaName);
 
     //You can add your name below
+        String jacobName ="Jacob";
+        System.out.printf("Hello, my name is %s.%n", jacobName);
 
 
 
