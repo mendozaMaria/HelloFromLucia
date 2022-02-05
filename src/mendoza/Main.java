@@ -13,6 +13,8 @@ public class Main {
 
         String secondName = "Maria";
         System.out.printf("Hello, my name is %s.%n", secondName);
+		
+		System.out.println("Hello Lucia, my name is Ryan.");
 
     }
 }
