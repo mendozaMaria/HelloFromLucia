@@ -9,5 +9,12 @@ public class Main {
 
     //You can add your name below
 
+
+
+
+
+        String noName = "Empty name";
+        System.out.printf("Hello, my name is %s.%n", noName);
+
     }
 }
